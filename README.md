@@ -1,4 +1,4 @@
-# -practice-indices-and-bracket-notation
+# -practice-indices-and-bracket-notation Augustine korsor 
 let entertainment = [
     ["The Lion King", "Black Panther", "Avatar"],
     ["Harry Potter", "The Hobbit", "Spider-Man"],
